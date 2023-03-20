@@ -10,3 +10,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 # Install Software packages
 choco install choco_software_packages.config --acceptlicense --confirm
+pip install -r python_requirements.txt
