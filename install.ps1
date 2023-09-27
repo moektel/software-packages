@@ -20,8 +20,11 @@ code --install-extension donjayamanne.githistory
 code --install-extension dracula-theme.theme-dracula
 code --install-extension eamodio.gitlens
 code --install-extension enkia.tokyo-night
+code --install-extension fabianlauer.vs-code-xml-format
 code --install-extension foxundermoon.shell-format
 code --install-extension GitHub.codespaces
+code --install-extension GitHub.copilot
+code --install-extension GitHub.github-vscode-theme
 code --install-extension GitHub.vscode-pull-request-github
 code --install-extension golang.go
 code --install-extension GrapeCity.gc-excelviewer
@@ -30,6 +33,7 @@ code --install-extension mhutchie.git-graph
 code --install-extension mohsen1.prettify-json
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-dotnettools.csharp
+code --install-extension ms-dotnettools.vscode-dotnet-runtime
 code --install-extension ms-python.isort
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
@@ -43,6 +47,7 @@ code --install-extension oderwat.indent-rainbow
 code --install-extension pjmiravalle.terraform-advanced-syntax-highlighting
 code --install-extension redhat.vscode-yaml
 code --install-extension ryu1kn.partial-diff
+code --install-extension sandipchitale.vscode-decode-x509certificates
 code --install-extension TabNine.tabnine-vscode
 code --install-extension tomoki1207.pdf
 code --install-extension Tyriar.sort-lines
